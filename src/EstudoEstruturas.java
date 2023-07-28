@@ -92,7 +92,5 @@ public class EstudoEstruturas {
             System.out.println("Você gosta de batata!");
             i++;
         }
-
-
     }
 }
