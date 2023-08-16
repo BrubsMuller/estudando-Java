@@ -18,3 +18,8 @@ public class Main {
 
     }
 }
+
+// Encapsulamento -> Uso de moficidores para "esconder"
+// Herança -> Capacidade de uma classe de herdar os atributos e métodos e de outra classe
+// Polimorfismo -> Classes que podem assumir diversas formas
+// Abstração -> Classes abstratas e interfaces
